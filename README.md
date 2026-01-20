@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20INHA's%20GitHub&fontAlign=64&fontSize=50&descAlign=38&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20lacerta's%20GitHub&fontAlign=64&fontSize=50&descAlign=38&descAlignY=58&animation=fadeIn)
 
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -30,7 +30,7 @@
 
 <div>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{j-inha}"/>
+  <img src="https://render.gitanimals.org/farms/{lacerta626}"/>
 </a>
 
 ---
