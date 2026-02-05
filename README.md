@@ -37,7 +37,7 @@
 <h3 align="left">📬 Contacts</h3>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/rjsrkdvlftn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/lacerta626@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 
 <a href="https://codepia.tistory.com/"><img src="https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=tistory&logoColor=white">
